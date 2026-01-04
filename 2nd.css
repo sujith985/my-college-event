@@ -1,0 +1,17 @@
+h2 {
+    font-family: Verdana, sans-serif;
+    color: purple;
+    text-align: center;
+}
+
+p {
+    font-family: Georgia, serif;
+}
+
+/* Background styling */
+#bg-section {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
